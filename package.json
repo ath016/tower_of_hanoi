@@ -1,0 +1,15 @@
+{
+  "name": "tower-of-hanoi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calc_tile.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
